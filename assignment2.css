@@ -1,0 +1,15 @@
+.container
+{
+    text-align : center;
+
+}
+.hobby{
+    display: inline-block;
+    margin: 10px;
+}
+.hobby img{
+ display: block;
+ width: 200px;
+ height: auto;
+ margin-bottom: 5px;
+}
